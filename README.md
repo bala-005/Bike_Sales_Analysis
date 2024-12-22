@@ -1,11 +1,11 @@
 # Bike Sales Analysis
 
-## Project Overview
+## ✤ Project Overview
 This project provides an analysis of bike sales data using Microsoft Excel. The dataset includes demographic and economic details of potential customers, along with their purchase history. The project uses data cleaning, pivot tables, and a dashboard to derive insights and present findings.
 
 ---
 
-## File Structure
+## ✤ File Structure
 The project contains the following sheets:
 
 1. **bike_buyers**  
@@ -22,7 +22,7 @@ The project contains the following sheets:
 
 ---
 
-## Features
+## ✤ Features
 - **Data Cleaning:** 
   - Removed irrelevant columns and standardized data formatting.
 - **Analysis:**
@@ -32,7 +32,7 @@ The project contains the following sheets:
 
 ---
 
-## Tools Used
+##  ✤ Tools Used
 - **Microsoft Excel**
   - Data Cleaning
   - Pivot Tables
@@ -40,7 +40,7 @@ The project contains the following sheets:
 
 ---
 
-## How to Use
+##  ✤ How to Use
 1. Open the file in Microsoft Excel.
 2. Navigate through the sheets for different levels of analysis:
    - Start with `bike_buyers` for raw data.
@@ -51,12 +51,12 @@ The project contains the following sheets:
 
 ---
 
-## Future Enhancements
+##  ✤ Future Enhancements
 - Populate the **Dashboard** with charts and graphs.
 - Add filters for dynamic data exploration.
 - Extend analysis to include predictive insights, such as factors influencing bike purchases.
 
 ---
 
-## Acknowledgments
+## ✤ Acknowledgments
 This project is an independent analysis inspired by bike sales datasets for learning and educational purposes.
